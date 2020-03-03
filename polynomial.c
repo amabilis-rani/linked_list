@@ -96,6 +96,6 @@ int main() {
 	print(plist3);
 	free(plist1);
 	free(plist2);
-	free(plist3);7
-
+	free(plist3);
+	return 0;
 }
